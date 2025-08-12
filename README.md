@@ -12,4 +12,5 @@ Generated Outputs: The first graph shows the LSTM model's predicted vs. actual t
 Dataset (https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 
 
-This project is intended for students, researchers, and developers interested in [your field/topic]. It can be used as a reference for learning, experimentation, or further enhancement.
+This project is intended for students, researchers, and developers. It can be used as a reference for learning, experimentation, or further enhancement.
+All models, visualizations, and analysis were fully implemented and developed by me as part of this predictive maintenance research project.
